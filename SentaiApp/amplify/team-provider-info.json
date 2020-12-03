@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sentaiapp-dev-161859-authRole",
+      "UnauthRoleArn": "arn:aws:iam::393624399245:role/amplify-sentaiapp-dev-161859-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::393624399245:role/amplify-sentaiapp-dev-161859-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-sentaiapp-dev-161859-deployment",
+      "UnauthRoleName": "amplify-sentaiapp-dev-161859-unauthRole",
+      "StackName": "amplify-sentaiapp-dev-161859",
+      "StackId": "arn:aws:cloudformation:eu-west-2:393624399245:stack/amplify-sentaiapp-dev-161859/6edfe1a0-2cde-11eb-8b3e-0a80095a196a",
+      "AmplifyAppId": "d1j91ntaxpjsp6"
+    },
+    "categories": {
+      "auth": {
+        "sentaiappa6b609b5": {
+          "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"3590033441054943\",\"client_secret\":\"098d3e3fa3b506faeae85c1bd5d9ca19\"},{\"ProviderName\":\"Google\",\"client_id\":\"695566982611-o5hq6d7aamqegr8mb321eom5r21ot9g7.apps.googleusercontent.com\",\"client_secret\":\"yxYah8ZwjOTsV_l4S7CEWPBD\"},{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amzn1.application-oa2-client.1f855233830d4103a04454cac7f334df\",\"client_secret\":\"bcedb5eea0c968a5207a469a1613478784077959f237ee882e56e2f5e0c678ad\"}]"
+        }
+      }
+    }
+  }
+}
